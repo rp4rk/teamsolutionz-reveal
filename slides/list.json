@@ -3,7 +3,7 @@
     {
         "filename": "dashboard.html",
         "attr": {
-            "data-background": "/resources/dashboard-background.jpg",
+            "data-background": "resources/dashboard-background.jpg",
             "data-background-size": "cover"
         }
     },
@@ -11,7 +11,7 @@
     {
         "filename": "duplicate-links.html",
         "attr": {
-            "data-background": "/resources/duplicates.png",
+            "data-background": "resources/duplicates.png",
             "data-background-size": "cover"
         }
     },
@@ -22,19 +22,19 @@
     "final-product.html",
     {
         "attr": {
-            "data-background": "/resources/ipadmockup.jpg",
+            "data-background": "resources/ipadmockup.jpg",
             "data-background-size": "cover"
         }
     },
     {
         "attr": {
-            "data-background": "/resources/iPhone.png",
+            "data-background": "resources/iPhone.png",
             "data-background-size": "cover"
         }
     },
     {
         "attr": {
-            "data-background": "/resources/background.jpg",
+            "data-background": "resources/background.jpg",
             "data-background-size": "cover"
         }
     }
