@@ -1,0 +1,42 @@
+[
+    "index.html",
+    {
+        "filename": "dashboard.html",
+        "attr": {
+            "data-background": "../resources/dashboard-background.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    "assumptions.html",
+    {
+        "filename": "duplicate-links.html",
+        "attr": {
+            "data-background": "../resources/duplicates.png",
+            "data-background-size": "cover"
+        }
+    },
+    "hidden-functionality.html",
+    "calendar-view-benefits.html",
+    "visual-flow.html",
+    "aesthetic.html",
+    "final-product.html",
+    {
+        "attr": {
+            "data-background": "../resources/ipadmockup.jpg",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "../resources/iPhone.png",
+            "data-background-size": "cover"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "../resources/background.jpg",
+            "data-background-size": "cover"
+        }
+    }
+
+]

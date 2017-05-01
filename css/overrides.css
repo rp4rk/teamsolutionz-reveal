@@ -1,0 +1,10 @@
+.fragment.visible:not(.current-fragment) {
+    display: none;
+    height:0px;
+    line-height: 0px;
+    font-size: 0px;
+}
+
+img.responsive {
+    width: 75%;
+}
